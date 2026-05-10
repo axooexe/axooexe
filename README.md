@@ -10,7 +10,7 @@ I'm Laila, a high school student passionate about electronics, robotics, and tec
 - PCB & CAD design
 - C and C++
 - Python
-- linux
+- Linux
 
 ![My Skills](https://skillicons.dev/icons?i=python,cpp,c,arduino,linux,github,vscode,raspberrypi,blender,git,debian,discord,notion)
 
