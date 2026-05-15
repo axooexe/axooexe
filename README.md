@@ -12,7 +12,7 @@ I'm Laila, a high school student passionate about electronics, robotics, and tec
 - Python
 - Linux
 
-![My Skills](https://skillicons.dev/icons?i=python,cpp,c,arduino,linux,github,vscode,raspberrypi,blender,git,debian,discord,notion)
+![My Skills](https://skillicons.dev/icons?i=python,cpp,c,arduino,linux,github,vscode,raspberrypi,blender,git,debian,discord,notion,nmap)
 
 🛠️ Interested in:
 - Robotics
